@@ -25,4 +25,4 @@ for x in range(len(wifi_list)):
     print(wifi_list[x])
 
 
-k=input("press any key to exit\n")     
+k=input("press enter to exit\n")     
